@@ -1,0 +1,28 @@
+.body{
+    background-color: #ffc2c2;
+    text-align: center;
+}
+
+.conteudo{
+    width: 96vw;
+    min-height: 80vw;
+    word-wrap: break-word;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 2vw;
+}
+
+.nome{
+    background-color: #e39595;
+    width: 28vw;
+    min-height: 40px;
+    padding: 1vw;
+    margin-bottom: 1vw;
+    border: rgb(102, 0, 0) solid 0.35vw;
+    border-radius: 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

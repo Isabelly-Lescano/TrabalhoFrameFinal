@@ -1,0 +1,26 @@
+.body{
+    background-color: rgb(252, 211, 211);
+}
+
+.conteudo{
+    margin: 2vw;
+    min-height: 65vh;
+    width: 20vw;
+}
+.conteudo p{
+    margin-top: 1vw;
+}
+.voltar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e84e4e;
+    width: 5vw;
+    height: 4vh;
+    margin-bottom: 5vh;
+    margin-left: 2vw;
+    border-radius: 1vw;
+}
+.voltar a{
+    color: #fff;
+}

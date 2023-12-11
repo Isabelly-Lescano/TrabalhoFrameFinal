@@ -1,0 +1,34 @@
+.footer {
+    background-color: #e84e4e;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer p{
+    color: #fff;
+}
+
+
+.navbar {
+    background-color: #e84e4e;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar p a {
+    color: #fff;
+    margin-left: 1em;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.navbar p a:hover {
+    color: #999
+}
+.t{
+    color: #fff;
+    margin-left: 10%;
+}
+

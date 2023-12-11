@@ -1,0 +1,46 @@
+.principal{
+    background-color: #e67c7c;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    border-radius: 1vw;
+    border: rgb(153, 51, 51) solid 0.4vw;
+}
+.t3{
+    text-align: center;
+    margin-top: 1vw;
+    margin-left: 0.5vw;
+    margin-right: 1vw;
+    color: #fff;
+
+}
+.principal1{
+    background-color:  #ffc2c2;
+    width: 100%;
+    height: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.principal2{
+    background-color:  #650505;
+    height: 2.5vw;
+    width: 8vw;
+    margin-top: 1.8vw;
+    margin-left: 43%;
+    border-radius: 1.2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.t2{
+    display: flex;
+    justify-content: center;
+}
+
+.t2 a{
+    color: #ffffff;
+    padding: 1vw;
+    text-align: center;
+}
